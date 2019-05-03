@@ -47,3 +47,8 @@ Install the gems by running:
 ```
 bundle install
 ```
+
+Run the tests by the following command:
+```
+bundle exec rspec
+```
